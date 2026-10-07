@@ -175,7 +175,3 @@ Computer Science & Engineering Student
 
 GitHub: `@Farza-web`
 
-## License
-
-This project is created for educational and learning purposes.
-
